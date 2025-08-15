@@ -1,0 +1,3 @@
+le id ne s'incremente pas lorsqu'on ajoute un nouveau perso
+ajouter un bouton cancel
+configurer bien le css sur le input et les boutons
